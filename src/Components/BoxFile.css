@@ -1,0 +1,64 @@
+/* body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+} */
+
+.container{
+    padding-top: 200px;
+    margin: 10px;
+    /* border-radius: 10px; */
+}
+
+/* Button CSS */
+.btn1{
+    color: #fff;
+    background-color: #333;
+    cursor: pointer;
+    width: 500px;
+    height: 60px;
+    font-weight: 500;
+    /* border-radius: 50px; */
+    font-size: 19px;
+    font-style:oblique
+    
+    
+}
+
+.btn{
+    
+    cursor: pointer;
+    width: 150px;
+    height: 40px;
+    font-weight: 500;
+    border-radius: 50px;
+    font-size: 19px;
+    font-style:oblique
+       
+}
+
+.btn:hover{
+    background-color: #333;
+    color: #fff;
+}
+
+.click{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30px;
+
+}
+
+.click1{
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    align-content: center;
+   
+}
+
+.color1{
+    color: hsl(205,78%,60%);
+}
